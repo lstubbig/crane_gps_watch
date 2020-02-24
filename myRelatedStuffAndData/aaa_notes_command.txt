@@ -1,0 +1,5 @@
+sudo crane_gps_watch_client --device "/dev/ttyUSB0" --clear
+sudo crane_gps_watch_client --split
+
+Read individual files and delete memory!
+sudo crane_gps_watch_client --clear
